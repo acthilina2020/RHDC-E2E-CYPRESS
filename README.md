@@ -25,8 +25,7 @@ To start running locally
 #### 1. Clone the repo
 
 ```
-$ git clone git@github.com:rockethomes/rhdc-e2e-testing.git
-$ cd rhdc-e2e-testing
+$ git clone https://github.com/acthilina2020/RHDC-E2E-CYPRESS.git
 ```
 
 #### 2. Install dependencies
@@ -40,7 +39,7 @@ $ npm install
 
  
 Mailosaur API key should be included in the `env`
-- "env": { "MAILOSAUR_API_KEY": "change_me" } }
+- "env": { "MAILOSAUR_API_KEY": "xxxxxxxxx" } }
 - Open 'cypress.json' file and make sure the URL is correct
 - Open cypress/support/commands.js file and make sure the email and the password in `sign in` custom command is correct
 
