@@ -1,0 +1,1926 @@
+{
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "data": [
+    {
+      "type": "listing",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+      "attributes": {
+        "canonical_id": "2475-charnwood-dr-troy-mi-48098",
+        "created_on": "2019-10-25T14:29:26.964+0000",
+        "days_on_market": 229,
+        "just_listed": false,
+        "list_date": "2019-10-25T00:00:00.000+0000",
+        "on_site_since": "2019-10-25T14:36:10.489+0000",
+        "list_office_name": "Realty Solutions of Michigan Inc",
+        "list_price": 1950000,
+        "list_price_per_sqft": 361,
+        "listing_status": "active",
+        "listing_status_description": "Active",
+        "monthly_cost": 6900,
+        "mls_number": "30778813",
+        "mls_updated_date": "2020-06-04T13:06:19.000+0000",
+        "original_list_price": 1950000,
+        "photo_date": "2020-06-04T12:27:04.000+0000",
+        "list_agent": {
+          "agent_name": "Saba Katto, Randy Najjar",
+          "agent_phone": "248-835-5008, undefined",
+          "office_name": "Realty Solutions of Michigan Inc, KW Domain",
+          "office_phone": "248-835-5008"
+        },
+        "property": {
+          "features": {
+            "additional_water_features": "",
+            "air_conditioning": "Ceiling Fan(s), Central A/c",
+            "appliances": "Dishwasher, Disposal, Humidifier, Range/oven, Refrigerator",
+            "basement": "Property Has Basement: Yes",
+            "directions": "W. Square Lake Rd to Beach Rd, Beach rd N to Charnwood. Home is on corner of Beach rd and Charnwood Dr.",
+            "disability": "",
+            "exterior": "Stone, Brick",
+            "exterior_features": "",
+            "extras": "Pets-allowed",
+            "fence": "",
+            "fireplace": "Gas Fireplace, Grt Rm Fireplace, Mstrbedroom Fireplace",
+            "floor": "",
+            "garage": "Attached Garage, 4 Spaces",
+            "green": "",
+            "heat": "Natural Gas, Forced Air",
+            "hoa_amenities": "Pets-allowed",
+            "hoa_fee_includes": "",
+            "interior": "Sump Pump",
+            "lot": "",
+            "new_construction": "No",
+            "outbuildings": "",
+            "parking": "Garage Dimensions: 23X49, Garage Type: Electric in Garage,Gar Door Opener,Side Loading Garage",
+            "pool": "",
+            "property_view": "",
+            "road_frontage": "Paved Street",
+            "roofing": "",
+            "security": "",
+            "sewer": "",
+            "utilities": "",
+            "water": "Public",
+            "waterfront_type": "",
+            "windows": ""
+          },
+          "adult_community": false,
+          "baths_full": 4,
+          "baths_partial": 2,
+          "baths_full_and_partial": 6,
+          "beds_total": 5,
+          "fireplace": true,
+          "garage": true,
+          "garage_spaces": 4,
+          "hoa_frequency": "Yearly",
+          "horse_property": false,
+          "lot_dimension": "237.00X197.00",
+          "lot_size_acres": 1.0800046,
+          "lot_size_square_feet": 47045,
+          "pool": false,
+          "property_view": false,
+          "rooms_total": 17,
+          "square_feet": 5400,
+          "sq_ft_range": "",
+          "price_per_sq_ft_range": "",
+          "style": "Colonial",
+          "subdivision": "CHARNWOOD HILLS NO 3",
+          "tax": 6432,
+          "type": "house",
+          "type_description": "Single Family Residence",
+          "year_built": 2020
+        },
+        "remarks": "Open house go to Builders Model: 3755 W. Maple Road, Bloomfield Hills Sundays from 1-5 pm. Must wear a mask, gloves, and maintain 6' social distancing at all times. \"TO BE BUILT NEW CONSTRUCTION\" Built by Sapphire Luxury Homes \"THE BRITTANY\" this beautiful 5400 sq. ft colonial is situated on a little over 1 acre in Troy! This beautiful colonial has 1st floor in law suite , grand 2 story foyer w/ double staircase ,study w/ great room w/ massive windows that opens to the gourmet kitchen that is equipped w/ Euro Craft custom cabinetry, oversized island, quartz countertops & Thermador SS appliance pkg. Formal Dining room, Study, 2 half baths and mud room finish this amazing 1st floor space. On the 2nd floor you will find a Large Master suite w/ master bath & large custom walk in closet. Generous Jr. suite w/ private bath. An add'l 2 bedrooms that share a jack n jill style bathroom also both have their own walk in closets. 2nd floor laundry.Diamond Collection upgrades included.",
+        "source": "MIMLS",
+        "originating_system": "RealComp",
+        "updated_on": "2020-06-04T13:33:18.763+0000",
+        "home_details": {
+          "exterior": [
+            {
+              "name": "property.features.additional_water_features",
+              "title": "Additional Water Features",
+              "detail": ""
+            },
+            {
+              "name": "property.features.below_grade",
+              "title": "Below Grade"
+            },
+            {
+              "name": "property.features.body_of_water",
+              "title": "Body of Water"
+            },
+            {
+              "name": "property.features.building",
+              "title": "Building"
+            },
+            {
+              "name": "property.features.directions",
+              "title": "Directions",
+              "detail": "W. Square Lake Rd to Beach Rd, Beach rd N to Charnwood. Home is on corner of Beach rd and Charnwood Dr."
+            },
+            {
+              "name": "property.features.disability",
+              "title": "Disability",
+              "detail": ""
+            },
+            {
+              "name": "property.features.driveway",
+              "title": "Driveway"
+            },
+            {
+              "name": "property.features.exterior",
+              "title": "Exterior",
+              "detail": "Stone, Brick"
+            },
+            {
+              "name": "property.features.exterior_features",
+              "title": "Exterior Features",
+              "detail": ""
+            },
+            {
+              "name": "property.features.extras",
+              "title": "Extra",
+              "detail": "Pets-allowed"
+            },
+            {
+              "name": "property.features.fence",
+              "title": "Fence",
+              "detail": ""
+            },
+            {
+              "name": "property.features.golf",
+              "title": "Golf"
+            },
+            {
+              "name": "property.features.lake_name",
+              "title": "Lake Name"
+            },
+            {
+              "name": "property.features.landscape",
+              "title": "Landscape"
+            },
+            {
+              "name": "property.features.lot",
+              "title": "Lot",
+              "detail": ""
+            },
+            {
+              "name": "property.features.outbuildings",
+              "title": "Outbuildings",
+              "detail": ""
+            },
+            {
+              "name": "property.features.parking",
+              "title": "Parking",
+              "detail": "Garage Dimensions: 23X49, Garage Type: Electric in Garage,Gar Door Opener,Side Loading Garage"
+            },
+            {
+              "name": "property.features.pool",
+              "title": "Pool",
+              "detail": ""
+            },
+            {
+              "name": "property.features.property_view",
+              "title": "Property View",
+              "detail": ""
+            },
+            {
+              "name": "property.features.road_frontage",
+              "title": "Frontage",
+              "detail": "Paved Street"
+            },
+            {
+              "name": "property.features.roofing",
+              "title": "Roofing",
+              "detail": ""
+            },
+            {
+              "name": "property.features.security",
+              "title": "Security",
+              "detail": ""
+            },
+            {
+              "name": "property.features.water_features",
+              "title": "Water Features"
+            },
+            {
+              "name": "property.features.waterfront_type",
+              "title": "Waterfront Type",
+              "detail": ""
+            },
+            {
+              "name": "property.year_built",
+              "title": "Year Built",
+              "detail": 2020
+            }
+          ],
+          "interior": [
+            {
+              "name": "property.features.basement",
+              "title": "Basement",
+              "detail": "Property Has Basement: Yes"
+            },
+            {
+              "name": "property.baths_full",
+              "title": "Baths Full",
+              "detail": 4
+            },
+            {
+              "name": "property.baths_partial",
+              "title": "Baths Partial",
+              "detail": 2
+            },
+            {
+              "name": "property.features.air_conditioning",
+              "title": "Air Conditioning",
+              "detail": "Ceiling Fan(s), Central A/c"
+            },
+            {
+              "name": "property.features.appliances",
+              "title": "Appliances",
+              "detail": "Dishwasher, Disposal, Humidifier, Range/oven, Refrigerator"
+            },
+            {
+              "name": "property.features.ceiling_height",
+              "title": "Ceiling Height"
+            },
+            {
+              "name": "property.features.design",
+              "title": "Design"
+            },
+            {
+              "name": "property.features.fireplace",
+              "title": "Fireplace",
+              "detail": "Gas Fireplace, Grt Rm Fireplace, Mstrbedroom Fireplace"
+            },
+            {
+              "name": "property.features.floor",
+              "title": "Floor",
+              "detail": ""
+            },
+            {
+              "name": "property.features.garage",
+              "title": "Garage",
+              "detail": "Attached Garage, 4 Spaces"
+            },
+            {
+              "name": "property.features.interior",
+              "title": "Interior",
+              "detail": "Sump Pump"
+            },
+            {
+              "name": "property.features.interior_layout",
+              "title": "Interior Layout"
+            },
+            {
+              "name": "property.features.windows",
+              "title": "Windows",
+              "detail": ""
+            }
+          ],
+          "utilities": [
+            {
+              "name": "property.features.heat",
+              "title": "Heat",
+              "detail": "Natural Gas, Forced Air"
+            },
+            {
+              "name": "property.features.sewer",
+              "title": "Sewer",
+              "detail": ""
+            },
+            {
+              "name": "property.features.utilities",
+              "title": "Utilities",
+              "detail": ""
+            },
+            {
+              "name": "property.features.utilities_available",
+              "title": "Utilities Available"
+            },
+            {
+              "name": "property.features.water",
+              "title": "Water",
+              "detail": "Public"
+            }
+          ],
+          "other": [
+            {
+              "name": "foreclosure",
+              "title": "Foreclosure"
+            },
+            {
+              "name": "foreclosure_type",
+              "title": "Foreclosure Type"
+            },
+            {
+              "name": "mls_number",
+              "title": "MLS Number",
+              "detail": "30778813"
+            },
+            {
+              "name": "property.adult_community",
+              "title": "Audit Community",
+              "detail": false
+            },
+            {
+              "name": "property.approximate_age",
+              "title": "Approximate Age"
+            },
+            {
+              "name": "property.community",
+              "title": "Community"
+            },
+            {
+              "name": "property.complex_name",
+              "title": "Complex Name"
+            },
+            {
+              "name": "property.current_use",
+              "title": "Current Use"
+            },
+            {
+              "name": "property.features.new_construction",
+              "title": "New Construction",
+              "detail": "No"
+            },
+            {
+              "name": "property.features.other",
+              "title": "Other"
+            },
+            {
+              "name": "property.features.ownership",
+              "title": "Ownership"
+            },
+            {
+              "name": "property.features.substructure",
+              "title": "Sub-Structure"
+            },
+            {
+              "name": "property.features.zoning",
+              "title": "Zoning"
+            }
+          ]
+        },
+        "last_mls_refresh_date": "2020-06-10T02:54:39.569+0000",
+        "cost": {
+          "monthly_cost": 6900,
+          "tooltips": "The calculator is for illustration purposes only and may not reflect actual numbers for your mortgage, tax or insurance. When possible, we use actual tax amounts provided by the home seller. When it is not available we assume a tax rate of 0.96% per year. Mortgage calculations assume a 20% down payment, constant 3.85% interest rate throughout a 30 year amortization period, with interest calculated monthly. Insurance is calculated on the national average of 0.58% per year.",
+          "tax_month": 536,
+          "insurance_month": 943,
+          "total": 8791
+        },
+        "meta": {
+          "web": {
+            "title": "2475 Charnwood Dr | Troy, MI, 48098 | Rocket Homes",
+            "description": "2475 Charnwood Dr is 5,400 sq. feet on a 47,045 sq. foot lot. Features: 5 bedrooms, 6 bathrooms. Price: $1,950,000. View 23 photos and area homes for sale at Rocket Homes.",
+            "seo_text": "This home is located at [2475 Charnwood Dr](/homes/2475-charnwood-dr-troy-mi-48098) in [Troy, MI](/mi/troy) and zip code [48098](/mi/48098). This 5,400 square foot home, which was built in 2020, sits on a 47,045 square foot lot. Features: 5 bedrooms, 6 bathrooms. It has been listed on Rocket Homes since October 25, 2019 and is currently priced at $1,950,000. The neighbors living near this home have an average income of $80,000.",
+            "canonical_url": "/homes/2475-charnwood-dr-troy-mi-48098"
+          },
+          "location": {
+            "geo_point": {
+              "lat": 42.607801,
+              "lon": -83.198081,
+              "radius": "1mi"
+            },
+            "street_name": "Charnwood",
+            "primary_location": {
+              "name": "Troy",
+              "type": "place",
+              "shape_id": "place_4cddf051e7fcf8e6c44225b182a36337",
+              "state_code": "MI",
+              "state_name": "Michigan",
+              "source": "mls",
+              "county": "Oakland County",
+              "web_name": "troy",
+              "payload": {
+                "_id": "place_4cddf051e7fcf8e6c44225b182a36337",
+                "shape_type": "place",
+                "lat": 42.57581074754904,
+                "lon": -83.15253839950982,
+                "title": "Troy",
+                "subtitle": "Oakland County, MI",
+                "state_code": "MI",
+                "web_name": "troy",
+                "pcic_cbsa": "Y",
+                "pcic_necta": "N",
+                "county": "Oakland County",
+                "population": 81929,
+                "has_same_name_zip_overlap": true
+              }
+            }
+          },
+          "counts": {
+            "all_photos": 23,
+            "bread_crumbs": 4,
+            "schools": 9,
+            "photos": 23
+          },
+          "compliance": {
+            "is_from_blacklisted_mls": false,
+            "idx_logo": "https://dnmtvrxsstng6.cloudfront.net/mlslogos/IDX_316.png",
+            "advertising_limits": "marked",
+            "show_listing_agent_name": false,
+            "show_listing_agent_phone": false,
+            "show_mls_number": true,
+            "hide_badges": false,
+            "hide_sqft": false,
+            "show_sqft_range": false,
+            "show_primary_photo_only": true,
+            "hide_avm": false,
+            "show_sold_price_only": false,
+            "show_agent_office_near_photo": false,
+            "show_agent_office_phone": false,
+            "hide_history_listing_status": false,
+            "hide_history_price": false,
+            "show_full_disclaimer": false,
+            "show_listing_photo_watermark": false,
+            "brokerage": {
+              "hide_co_brand": false,
+              "logo": "https://dnmtvrxsstng6.cloudfront.net/mlslogos/rh.png",
+              "name": "Rocket Homes Real Estate LLC",
+              "bre_number": "Rocket Homes Real Estate LLC License Numbers: MI 6505-346028; AL 000116893-0; AZ LC682664000; CO EC.100073419; FL CQ1053125; GA 75702; IN RC51700193; KY 245277; LA BROK.0995700664-CORP; MA 422609; MD 668189; MN 40608594; MO 2017021670; NC C27494; NJ 1757866; NV 2017306335; NY 10991228813; OH REC.2018004495; PA RB068594; SC 22050; TN 263727; UT 11215866-CN00; VA 0226028421; WA 20438; WI 938151-91; Rocket Homes Real Estate IL LLC License Number: 481.01277.",
+              "subdomain": "www"
+            },
+            "disclaimer": "![IDX](https://dnmtvrxsstng6.cloudfront.net/mlslogos/IDX_316_large.png) Provided through IDX via MiRealSource, as the &quot;Source MLS&quot;, courtesy of the Originating MLS shown on the property listing, as the Originating MLS.<br/> <br/> <br/>The information published and disseminated by the Originating MLS is communicated verbatim, without change by the Originating MLS, as filed with it by its members. The accuracy of all information, regardless of source, is not guaranteed or warranted. All information should be independently verified.<br/> <br/> <br/>Copyright 2014 MiRealSource. All rights reserved. The information provided hereby constitutes proprietary information of MiRealSource, Inc. and its shareholders, affiliates and licensees and may not be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, scanning or any information storage and retrieval system, without written permission from MiRealSource, Inc.<br/>Data displayed may be a portion of, and not a complete set of all listings published in the MLS. Last updated on: 6/9/2020, 11:23:21 PM Eastern. If you have any questions regarding the accuracy of this data, please contact us at help@rockethomes.com.",
+            "disclaimer_html": "<p><img src=\"https://dnmtvrxsstng6.cloudfront.net/mlslogos/IDX_316_large.png\" alt=\"IDX\" /> Provided through IDX via MiRealSource, as the &quot;Source MLS&quot;, courtesy of the Originating MLS shown on the property listing, as the Originating MLS.<br/> <br/> <br/>The information published and disseminated by the Originating MLS is communicated verbatim, without change by the Originating MLS, as filed with it by its members. The accuracy of all information, regardless of source, is not guaranteed or warranted. All information should be independently verified.<br/> <br/> <br/>Copyright 2014 MiRealSource. All rights reserved. The information provided hereby constitutes proprietary information of MiRealSource, Inc. and its shareholders, affiliates and licensees and may not be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, scanning or any information storage and retrieval system, without written permission from MiRealSource, Inc.<br/>Data displayed may be a portion of, and not a complete set of all listings published in the MLS. Last updated on: 6/9/2020, 11:23:21 PM Eastern. If you have any questions regarding the accuracy of this data, please contact us at help@rockethomes.com.</p>"
+          }
+        },
+        "attribution": {
+          "text": "Provided through IDX via MiRealSource, as the 'Source MLS', courtesy of the Originating MLS shown on the property listing, as the Originating MLS.<P>The information published and disseminated by the Originating MLS is communicated verbatim, without change by the Originating MLS, as filed with it by its members. The accuracy of all information, regardless of source, is not guaranteed or warranted. All information should be independently verified.<P>Copyright 2018 MiRealSource. All rights reserved. The information provided hereby constitutes proprietary information of MiRealSource, Inc. and its shareholders, affiliates and licensees and may not be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, scanning or information storage and retrieval system, without written permission from MiRealSource, Inc.<P>",
+          "logo_url": "https://dnmtvrxsstng6.cloudfront.net/mlslogos/IDX_316.png",
+          "merle_logo_empty": true
+        }
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "type": "address",
+            "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e"
+          }
+        },
+        "agents": {
+          "data": null
+        },
+        "bread_crumbs": {
+          "data": [
+            {
+              "type": "bread_crumb",
+              "id": "state"
+            },
+            {
+              "type": "bread_crumb",
+              "id": "county"
+            },
+            {
+              "type": "bread_crumb",
+              "id": "city"
+            },
+            {
+              "type": "bread_crumb",
+              "id": "zip_code"
+            }
+          ]
+        },
+        "broker": {
+          "data": null
+        },
+        "crime": {
+          "data": null
+        },
+        "safety": {
+          "data": null
+        },
+        "demographic": {
+          "data": {
+            "type": "demographic",
+            "id": "cbg_21cfb8186345dfde30b41d1804987e5a"
+          }
+        },
+        "dog_parks": {
+          "data": null
+        },
+        "nearby_crimes": {
+          "data": null
+        },
+        "nearby_safety": {
+          "data": null
+        },
+        "photos": {
+          "data": [
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-3ab26876f405c504376facf913568f89"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bdfdc4a11d08beba6c22a2ed071f3b71"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bac035e36ae6574905c25b6b3bae1bcf"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-ea2241456bb600e810f3d90d94211a5f"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-7f441779ba45535b66b49b8c5800f456"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e7fa6f3f4912e69dd79c8a1702d14f08"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1aa3fe5960cd735943ab562205b7e6eb"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-35755dfaf314cfe09221ba4a376cd541"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-da11ef02fca77ba4fdaa573fa777029f"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b54940d2f8c9a10688a3c8144db194bd"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b63bc1e792efda17cef4422aeaebd746"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-c843c4e2f601d3f7f676fb666f6b48b9"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2b2224f09040fa1c5a5958e81c7dc407"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-574f72afd8c56287a927cd4d6e08383d"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-4ac2d8529f2d675bd08344eb7903d91b"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-fc3693498d2df2b20b372a5dcb1f6629"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e18d1feff8f8be23bb0ac67fdbd7cdde"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1d2872bc0a6eafa951ff79ef37613d2d"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-46954e2024345f5bed0554ea01569b3b"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-9cbec6bd4056cba8a0490252903644fd"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-caf74cb2c24babcf5a262a2b2ce2216e"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-990b023ab0ddb9b107119b67c5ee9b33"
+            },
+            {
+              "type": "photo",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2c833c98d4c724fa4a8f49dc57bcf905"
+            }
+          ]
+        },
+        "prizm": {
+          "data": {
+            "type": "prizm",
+            "id": "cbg_21cfb8186345dfde30b41d1804987e5a"
+          }
+        },
+        "rooms": {
+          "data": null
+        },
+        "schools": {
+          "data": [
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+684a90e4f5277d171cf0a0cab2b39c0f"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+b3c43be487eba4e94dc2c120ea7952dd"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+9cf3994b6303603f82df31ac244184de"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+fb20911f82489737f0981c62222dfd68"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+75e309dfc36b3a35645fe6a3b5a06f57"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+5d42f33dc45ba740ed4d2abb2cca3f1c"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+252584e4bf1a27dc32e69d04fb44b1cc"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+10cda3cf0df430acc0a211b3c846556b"
+            },
+            {
+              "type": "listing_school",
+              "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+be4799b83ecff8dd27365845d066cee8"
+            }
+          ]
+        },
+        "walkability": {
+          "data": null
+        }
+      },
+      "links": {
+        "self": "/api/v1/listings/2475-charnwood-dr-troy-mi-48098",
+        "costs": "/api/v1/listings/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e/costs",
+        "just_sold_special": "/api/v1/geo-shapes/circles/collections/just_sold_special?scope=full&lat=42.607801&lon=-83.198081&radius=1mi",
+        "just_sold": "/api/v1/geo-shapes/circles/collections/just_sold?scope=full&lat=42.607801&lon=-83.198081&radius=1mi",
+        "just_listed": "/api/v1/geo-shapes/circles/collections/just_listed?scope=full&lat=42.607801&lon=-83.198081&radius=1mi",
+        "just_sold_special_similar": "/api/v1/geo-shapes/circles/collections/just_sold_special?scope=full&lat=42.607801&lon=-83.198081&radius=1mi&bedroom_count=5&list_price=1950000&listing_id=mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "just_sold_similar": "/api/v1/geo-shapes/circles/collections/just_sold?scope=full&size=15&lat=42.607801&lon=-83.198081&radius=1mi&bedroom_count=5&list_price=1950000&listing_id=mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "just_listed_similar": "/api/v1/geo-shapes/circles/collections/just_listed?scope=full&size=15&lat=42.607801&lon=-83.198081&radius=1mi&bedroom_count=5&list_price=1950000&listing_id=mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "photos": "/api/v1/listings/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e/photos?scope=compact",
+        "web": {
+          "listing": "/homes/2475-charnwood-dr-troy-mi-48098",
+          "nearby_homes_for_sale": "/mi/troy"
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "type": "address",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+      "attributes": {
+        "city": "Troy",
+        "county": "Oakland",
+        "display_address": "2475 Charnwood Dr",
+        "geo_point": {
+          "lat": 42.607801,
+          "lon": -83.198081
+        },
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "street_name": "Charnwood",
+        "street_number": "2475",
+        "zip_code": "48098"
+      }
+    },
+    {
+      "type": "bread_crumb",
+      "id": "state",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "title": "Michigan"
+      },
+      "links": {
+        "self": "/api/v1/geo-shapes/states/mi/cities?type=available_cities&scope=compact&output=cities&size=100",
+        "web": {
+          "bread_crumb": "/michigan"
+        }
+      }
+    },
+    {
+      "type": "bread_crumb",
+      "id": "county",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "location": "oakland-county",
+        "title": "Oakland County",
+        "shape_id": "county_625c2222ce8db1412b5ae37d47af17fa"
+      },
+      "links": {
+        "self": "/api/v1/locations/listings?scope=compact&from=0&size=10&cluster_mixed_mode=true&include_cluster_info=1&location=oakland-county&state=mi",
+        "web": {
+          "bread_crumb": "/mi/oakland-county"
+        }
+      }
+    },
+    {
+      "type": "bread_crumb",
+      "id": "city",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "location": "troy",
+        "title": "Troy",
+        "shape_id": "place_4cddf051e7fcf8e6c44225b182a36337"
+      },
+      "links": {
+        "self": "/api/v1/locations/listings?scope=compact&from=0&size=10&cluster_mixed_mode=true&include_cluster_info=1&location=troy&state=mi",
+        "web": {
+          "bread_crumb": "/mi/troy"
+        }
+      }
+    },
+    {
+      "type": "bread_crumb",
+      "id": "zip_code",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "state_code": "MI",
+        "state_name": "Michigan",
+        "location": "48098",
+        "title": "48098",
+        "shape_id": "zip_3a26d95cca03c8a5276e9f4f241d24d5"
+      },
+      "links": {
+        "self": "/api/v1/locations/listings?scope=compact&from=0&size=10&cluster_mixed_mode=true&include_cluster_info=1&location=48098&state=mi",
+        "web": {
+          "bread_crumb": "/mi/48098"
+        }
+      }
+    },
+    {
+      "type": "demographic",
+      "id": "cbg_21cfb8186345dfde30b41d1804987e5a",
+      "attributes": {
+        "income": {
+          "income_groups": {
+            "filters": [
+              "35k",
+              "35k-100k",
+              "100k-200k",
+              "200k+"
+            ],
+            "35k": {
+              "title": "<35k",
+              "percentage": 30
+            },
+            "35k-100k": {
+              "title": "35k-100k",
+              "percentage": 25
+            },
+            "100k-200k": {
+              "title": "100k-200k",
+              "percentage": 33
+            },
+            "200k+": {
+              "title": "200k+",
+              "percentage": 12
+            }
+          },
+          "median_income": 80000
+        },
+        "age": {
+          "age_groups": {
+            "filters": [
+              "kids",
+              "teens",
+              "young_adults",
+              "adults",
+              "seniors"
+            ],
+            "kids": {
+              "title": "Kids",
+              "age_from": 0,
+              "age_to": 11,
+              "percentage": 11,
+              "icon": "icon-stroller",
+              "image": "tricycle_small.png"
+            },
+            "teens": {
+              "title": "Teens",
+              "age_from": 12,
+              "age_to": 17,
+              "percentage": 8,
+              "icon": "icon-stereo",
+              "image": "stereo_small.png"
+            },
+            "seniors": {
+              "title": "Seniors",
+              "age_from": 65,
+              "percentage": 26,
+              "icon": "icon-chair",
+              "image": "rocking_small.png"
+            },
+            "young_adults": {
+              "title": "Young Adults",
+              "age_from": 18,
+              "age_to": 34,
+              "percentage": 10,
+              "icon": "icon-beer",
+              "image": "beer_big.png"
+            },
+            "adults": {
+              "title": "Adults",
+              "age_from": 35,
+              "age_to": 64,
+              "percentage": 45,
+              "icon": "icon-briefcase",
+              "image": "tv_big.png"
+            }
+          }
+        },
+        "race": {
+          "race_groups": {
+            "filters": [
+              "native_american",
+              "african_american",
+              "asian",
+              "hispanic",
+              "caucasian",
+              "other"
+            ],
+            "native_american": {
+              "title": "Native American",
+              "percentage": 0
+            },
+            "african_american": {
+              "title": "African American",
+              "percentage": 3
+            },
+            "asian": {
+              "title": "Asian",
+              "percentage": 11
+            },
+            "hispanic": {
+              "title": "Hispanic",
+              "percentage": 1
+            },
+            "caucasian": {
+              "title": "Caucasian",
+              "percentage": 82
+            },
+            "other": {
+              "title": "Other",
+              "percentage": 3
+            }
+          }
+        },
+        "education": {
+          "education_groups": {
+            "filters": [
+              "no_high_school",
+              "high_school",
+              "post_secondary",
+              "master",
+              "doctorate"
+            ],
+            "no_high_school": {
+              "title": "No High School",
+              "percentage": 0
+            },
+            "high_school": {
+              "title": "High School Diploma",
+              "percentage": 15
+            },
+            "post_secondary": {
+              "title": "Post Secondary Degree",
+              "percentage": 67
+            },
+            "master": {
+              "title": "Masters Degree",
+              "percentage": 15
+            },
+            "doctorate": {
+              "title": "Doctorate",
+              "percentage": 3
+            }
+          }
+        },
+        "family_type": {
+          "owner_renter_groups": {
+            "filters": [
+              "single_no_kids",
+              "single_with_kids",
+              "married_no_kids",
+              "married_with_kids"
+            ],
+            "married_with_kids": {
+              "title": "Married, with Kids",
+              "percentage": 18
+            },
+            "married_no_kids": {
+              "title": "Married, No Kids",
+              "percentage": 43
+            },
+            "single_with_kids": {
+              "title": "Single, with Kids",
+              "percentage": 5
+            },
+            "single_no_kids": {
+              "title": "Single, No Kids",
+              "percentage": 34
+            }
+          }
+        },
+        "owner_or_renter": {
+          "owner_renter_groups": {
+            "filters": [
+              "owners",
+              "renters"
+            ],
+            "owners": {
+              "title": "Home Owners",
+              "percentage": 93
+            },
+            "renters": {
+              "title": "Renters",
+              "percentage": 7
+            }
+          }
+        },
+        "population": 780,
+        "area_sq_mi": 0.69
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-3ab26876f405c504376facf913568f89",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/077MIMLS/30778813-3ab26876f405c504376facf913568f89-1-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/077MIMLS/30778813-3ab26876f405c504376facf913568f89-1-640.jpg",
+        "display_order": 1,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/31eMIMLS/30778813-3ab26876f405c504376facf913568f89-1-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-3ab26876f405c504376facf913568f89?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bdfdc4a11d08beba6c22a2ed071f3b71",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/d10MIMLS/30778813-bdfdc4a11d08beba6c22a2ed071f3b71-2-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/d10MIMLS/30778813-bdfdc4a11d08beba6c22a2ed071f3b71-2-640.jpg",
+        "display_order": 2,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/ac7MIMLS/30778813-bdfdc4a11d08beba6c22a2ed071f3b71-2-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bdfdc4a11d08beba6c22a2ed071f3b71?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bac035e36ae6574905c25b6b3bae1bcf",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/1e9MIMLS/30778813-bac035e36ae6574905c25b6b3bae1bcf-3-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/1e9MIMLS/30778813-bac035e36ae6574905c25b6b3bae1bcf-3-640.jpg",
+        "display_order": 3,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/13fMIMLS/30778813-bac035e36ae6574905c25b6b3bae1bcf-3-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-bac035e36ae6574905c25b6b3bae1bcf?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-ea2241456bb600e810f3d90d94211a5f",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/efcMIMLS/30778813-ea2241456bb600e810f3d90d94211a5f-4-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/efcMIMLS/30778813-ea2241456bb600e810f3d90d94211a5f-4-640.jpg",
+        "display_order": 4,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/995MIMLS/30778813-ea2241456bb600e810f3d90d94211a5f-4-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-ea2241456bb600e810f3d90d94211a5f?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-7f441779ba45535b66b49b8c5800f456",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/563MIMLS/30778813-7f441779ba45535b66b49b8c5800f456-5-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/563MIMLS/30778813-7f441779ba45535b66b49b8c5800f456-5-640.jpg",
+        "display_order": 5,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/925MIMLS/30778813-7f441779ba45535b66b49b8c5800f456-5-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-7f441779ba45535b66b49b8c5800f456?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e7fa6f3f4912e69dd79c8a1702d14f08",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/0b5MIMLS/30778813-e7fa6f3f4912e69dd79c8a1702d14f08-6-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/0b5MIMLS/30778813-e7fa6f3f4912e69dd79c8a1702d14f08-6-640.jpg",
+        "display_order": 6,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/b51MIMLS/30778813-e7fa6f3f4912e69dd79c8a1702d14f08-6-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e7fa6f3f4912e69dd79c8a1702d14f08?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1aa3fe5960cd735943ab562205b7e6eb",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/cb3MIMLS/30778813-1aa3fe5960cd735943ab562205b7e6eb-7-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/cb3MIMLS/30778813-1aa3fe5960cd735943ab562205b7e6eb-7-640.jpg",
+        "display_order": 7,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/951MIMLS/30778813-1aa3fe5960cd735943ab562205b7e6eb-7-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1aa3fe5960cd735943ab562205b7e6eb?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-35755dfaf314cfe09221ba4a376cd541",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/7f7MIMLS/30778813-35755dfaf314cfe09221ba4a376cd541-8-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/7f7MIMLS/30778813-35755dfaf314cfe09221ba4a376cd541-8-640.jpg",
+        "display_order": 8,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/e67MIMLS/30778813-35755dfaf314cfe09221ba4a376cd541-8-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-35755dfaf314cfe09221ba4a376cd541?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-da11ef02fca77ba4fdaa573fa777029f",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/a59MIMLS/30778813-da11ef02fca77ba4fdaa573fa777029f-9-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/a59MIMLS/30778813-da11ef02fca77ba4fdaa573fa777029f-9-640.jpg",
+        "display_order": 9,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/13dMIMLS/30778813-da11ef02fca77ba4fdaa573fa777029f-9-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-da11ef02fca77ba4fdaa573fa777029f?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b54940d2f8c9a10688a3c8144db194bd",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/c30MIMLS/30778813-b54940d2f8c9a10688a3c8144db194bd-10-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/c30MIMLS/30778813-b54940d2f8c9a10688a3c8144db194bd-10-640.jpg",
+        "display_order": 10,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/055MIMLS/30778813-b54940d2f8c9a10688a3c8144db194bd-10-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b54940d2f8c9a10688a3c8144db194bd?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b63bc1e792efda17cef4422aeaebd746",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/8d9MIMLS/30778813-b63bc1e792efda17cef4422aeaebd746-11-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/8d9MIMLS/30778813-b63bc1e792efda17cef4422aeaebd746-11-640.jpg",
+        "display_order": 11,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/795MIMLS/30778813-b63bc1e792efda17cef4422aeaebd746-11-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-b63bc1e792efda17cef4422aeaebd746?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-c843c4e2f601d3f7f676fb666f6b48b9",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/0cfMIMLS/30778813-c843c4e2f601d3f7f676fb666f6b48b9-12-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/0cfMIMLS/30778813-c843c4e2f601d3f7f676fb666f6b48b9-12-640.jpg",
+        "display_order": 12,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/872MIMLS/30778813-c843c4e2f601d3f7f676fb666f6b48b9-12-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-c843c4e2f601d3f7f676fb666f6b48b9?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2b2224f09040fa1c5a5958e81c7dc407",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/fb4MIMLS/30778813-2b2224f09040fa1c5a5958e81c7dc407-13-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/fb4MIMLS/30778813-2b2224f09040fa1c5a5958e81c7dc407-13-640.jpg",
+        "display_order": 13,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/b7bMIMLS/30778813-2b2224f09040fa1c5a5958e81c7dc407-13-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2b2224f09040fa1c5a5958e81c7dc407?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-574f72afd8c56287a927cd4d6e08383d",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/ea1MIMLS/30778813-574f72afd8c56287a927cd4d6e08383d-14-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/ea1MIMLS/30778813-574f72afd8c56287a927cd4d6e08383d-14-640.jpg",
+        "display_order": 14,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/f02MIMLS/30778813-574f72afd8c56287a927cd4d6e08383d-14-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-574f72afd8c56287a927cd4d6e08383d?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-4ac2d8529f2d675bd08344eb7903d91b",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/002MIMLS/30778813-4ac2d8529f2d675bd08344eb7903d91b-15-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/002MIMLS/30778813-4ac2d8529f2d675bd08344eb7903d91b-15-640.jpg",
+        "display_order": 15,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/67cMIMLS/30778813-4ac2d8529f2d675bd08344eb7903d91b-15-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-4ac2d8529f2d675bd08344eb7903d91b?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-fc3693498d2df2b20b372a5dcb1f6629",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/a52MIMLS/30778813-fc3693498d2df2b20b372a5dcb1f6629-16-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/a52MIMLS/30778813-fc3693498d2df2b20b372a5dcb1f6629-16-640.jpg",
+        "display_order": 16,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/4caMIMLS/30778813-fc3693498d2df2b20b372a5dcb1f6629-16-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-fc3693498d2df2b20b372a5dcb1f6629?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e18d1feff8f8be23bb0ac67fdbd7cdde",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/cd1MIMLS/30778813-e18d1feff8f8be23bb0ac67fdbd7cdde-17-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/cd1MIMLS/30778813-e18d1feff8f8be23bb0ac67fdbd7cdde-17-640.jpg",
+        "display_order": 17,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/424MIMLS/30778813-e18d1feff8f8be23bb0ac67fdbd7cdde-17-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-e18d1feff8f8be23bb0ac67fdbd7cdde?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1d2872bc0a6eafa951ff79ef37613d2d",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/d4aMIMLS/30778813-1d2872bc0a6eafa951ff79ef37613d2d-18-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/d4aMIMLS/30778813-1d2872bc0a6eafa951ff79ef37613d2d-18-640.jpg",
+        "display_order": 18,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/51fMIMLS/30778813-1d2872bc0a6eafa951ff79ef37613d2d-18-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-1d2872bc0a6eafa951ff79ef37613d2d?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-46954e2024345f5bed0554ea01569b3b",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/be3MIMLS/30778813-46954e2024345f5bed0554ea01569b3b-19-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/be3MIMLS/30778813-46954e2024345f5bed0554ea01569b3b-19-640.jpg",
+        "display_order": 19,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/768MIMLS/30778813-46954e2024345f5bed0554ea01569b3b-19-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-46954e2024345f5bed0554ea01569b3b?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-9cbec6bd4056cba8a0490252903644fd",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/8eaMIMLS/30778813-9cbec6bd4056cba8a0490252903644fd-20-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/8eaMIMLS/30778813-9cbec6bd4056cba8a0490252903644fd-20-640.jpg",
+        "display_order": 20,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/d04MIMLS/30778813-9cbec6bd4056cba8a0490252903644fd-20-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-9cbec6bd4056cba8a0490252903644fd?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-caf74cb2c24babcf5a262a2b2ce2216e",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/5fdMIMLS/30778813-caf74cb2c24babcf5a262a2b2ce2216e-21-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/5fdMIMLS/30778813-caf74cb2c24babcf5a262a2b2ce2216e-21-640.jpg",
+        "display_order": 21,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/593MIMLS/30778813-caf74cb2c24babcf5a262a2b2ce2216e-21-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-caf74cb2c24babcf5a262a2b2ce2216e?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-990b023ab0ddb9b107119b67c5ee9b33",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/18fMIMLS/30778813-990b023ab0ddb9b107119b67c5ee9b33-22-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/18fMIMLS/30778813-990b023ab0ddb9b107119b67c5ee9b33-22-640.jpg",
+        "display_order": 22,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/040MIMLS/30778813-990b023ab0ddb9b107119b67c5ee9b33-22-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-990b023ab0ddb9b107119b67c5ee9b33?scope=full"
+      }
+    },
+    {
+      "type": "photo",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2c833c98d4c724fa4a8f49dc57bcf905",
+      "attributes": {
+        "listing_id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e",
+        "320_url": "https://dnmtvrxsstng6.cloudfront.net/c12MIMLS/30778813-2c833c98d4c724fa4a8f49dc57bcf905-23-640.jpg",
+        "640_url": "https://dnmtvrxsstng6.cloudfront.net/c12MIMLS/30778813-2c833c98d4c724fa4a8f49dc57bcf905-23-640.jpg",
+        "display_order": 23,
+        "full_url": "https://dnmtvrxsstng6.cloudfront.net/23cMIMLS/30778813-2c833c98d4c724fa4a8f49dc57bcf905-23-full.jpg"
+      },
+      "links": {
+        "self": "/api/v1/listings/photos/mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e-2c833c98d4c724fa4a8f49dc57bcf905?scope=full"
+      }
+    },
+    {
+      "type": "prizm",
+      "id": "cbg_21cfb8186345dfde30b41d1804987e5a",
+      "attributes": {
+        "filters": [
+          "drive",
+          "restaurants",
+          "shop",
+          "leisure",
+          "radio"
+        ],
+        "drive": {
+          "filters": [
+            "segment_1",
+            "segment_2",
+            "segment_3"
+          ],
+          "segment_1": {
+            "text": "Mazda",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/mazda.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/default.png"
+          },
+          "segment_2": {
+            "text": "Cadillac",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/cadillac.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/default.png"
+          },
+          "segment_3": {
+            "text": "Lexus",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/lexus.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/drive/default.png"
+          }
+        },
+        "restaurants": {
+          "filters": [
+            "segment_1",
+            "segment_2",
+            "segment_3"
+          ],
+          "segment_1": {
+            "text": "Chipotle",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/chipotle.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/default.png"
+          },
+          "segment_2": {
+            "text": "Bonefish Grill",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/bonefish.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/default.png"
+          },
+          "segment_3": {
+            "text": "California Pizza Kitchen",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/californiapizza.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/restaurants/default.png"
+          }
+        },
+        "shop": {
+          "filters": [
+            "segment_1",
+            "segment_2",
+            "segment_3"
+          ],
+          "segment_1": {
+            "text": "Nordstrom Rack",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/nordstromrack.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/default.png"
+          },
+          "segment_2": {
+            "text": "Chico's",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/chicos.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/default.png"
+          },
+          "segment_3": {
+            "text": "Bloomingdales",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/bloomingdales.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/shop/default.png"
+          }
+        },
+        "leisure": {
+          "filters": [
+            "segment_1",
+            "segment_2",
+            "segment_3"
+          ],
+          "segment_1": {
+            "text": "Hiking/backpacking",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/hiking.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/default.png"
+          },
+          "segment_2": {
+            "text": "PGA/LPGA",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/pgatour.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/default.png"
+          },
+          "segment_3": {
+            "text": "Men's Tennis",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/tennis.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/leisure/default.png"
+          }
+        },
+        "radio": {
+          "filters": [
+            "segment_1",
+            "segment_2",
+            "segment_3"
+          ],
+          "segment_1": {
+            "text": "Rock",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/rock.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/default.png"
+          },
+          "segment_2": {
+            "text": "Classical",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/classical.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/default.png"
+          },
+          "segment_3": {
+            "text": "News",
+            "icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/news.png",
+            "default_icon": "https://dnmtvrxsstng6.cloudfront.net/prizm_icons/radio/default.png"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "684a90e4f5277d171cf0a0cab2b39c0f",
+      "attributes": {
+        "street": "5625 Northfield Pkwy",
+        "city": "Troy",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48098",
+        "phone": "2488234400",
+        "fax": "",
+        "name": "Hamilton Elementary School",
+        "gs_rating": 9,
+        "grade_high": "5",
+        "grade_low": "PK",
+        "institution_type": "Public",
+        "instructional_level": "Primary",
+        "school_type": "Regular",
+        "school_url": "http://hamilton.troy.k12.mi.us/",
+        "school_district_name": "Troy School District",
+        "school_district_url": "http://www.troy.k12.mi.us",
+        "enrollment": "469",
+        "teachers_fte": 25.1,
+        "student_teacher_ratio": 18.72,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "684a90e4f5277d171cf0a0cab2b39c0f",
+        "nces_school_id": "263426006965",
+        "school_district_id": "b647ed1a1335b0bce88511685341f715",
+        "nces_school_district_id": "2634260",
+        "geo_point": {
+          "lat": "42.600653",
+          "lon": "-83.176723"
+        },
+        "sub_type": "elementary",
+        "sub_title": "Public District PK-5"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/troy/3450-Hamilton-Elementary-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+684a90e4f5277d171cf0a0cab2b39c0f",
+      "attributes": {
+        "distance": 1.2,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "684a90e4f5277d171cf0a0cab2b39c0f"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "b3c43be487eba4e94dc2c120ea7952dd",
+      "attributes": {
+        "street": "4777 Northfield Pkwy",
+        "city": "Troy",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48098",
+        "phone": "2488232700",
+        "fax": "",
+        "name": "Troy High School",
+        "gs_rating": 8,
+        "grade_high": "12",
+        "grade_low": "9",
+        "institution_type": "Public",
+        "instructional_level": "High",
+        "school_type": "Regular",
+        "school_url": "http://www.troycolts.org/",
+        "school_district_name": "Troy School District",
+        "school_district_url": "http://www.troy.k12.mi.us",
+        "enrollment": "1990",
+        "teachers_fte": 104,
+        "student_teacher_ratio": 19.13,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "b3c43be487eba4e94dc2c120ea7952dd",
+        "nces_school_id": "263426006966",
+        "school_district_id": "b647ed1a1335b0bce88511685341f715",
+        "nces_school_district_id": "2634260",
+        "geo_point": {
+          "lat": "42.587183",
+          "lon": "-83.177887"
+        },
+        "sub_type": "high",
+        "sub_title": "Public District 9-12"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/troy/3451-Troy-High-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+b3c43be487eba4e94dc2c120ea7952dd",
+      "attributes": {
+        "distance": 1.76,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "b3c43be487eba4e94dc2c120ea7952dd"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "9cf3994b6303603f82df31ac244184de",
+      "attributes": {
+        "street": "2800 Waukegan St",
+        "city": "Auburn Hills",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48326",
+        "phone": "2485376100",
+        "fax": "",
+        "name": "Avondale High School",
+        "gs_rating": 8,
+        "grade_high": "12",
+        "grade_low": "9",
+        "institution_type": "Public",
+        "instructional_level": "High",
+        "school_type": "Regular",
+        "school_url": "http://www.avondale.k12.mi.us/",
+        "school_district_name": "Avondale School District",
+        "school_district_url": "http://www.avondale.k12.mi.us",
+        "enrollment": "1050",
+        "teachers_fte": 55.1,
+        "student_teacher_ratio": 19.06,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "9cf3994b6303603f82df31ac244184de",
+        "nces_school_id": "260369004067",
+        "school_district_id": "f14c20b7ab51000402134fe8935ea678",
+        "nces_school_district_id": "2603690",
+        "geo_point": {
+          "lat": "42.629116",
+          "lon": "-83.231952"
+        },
+        "sub_type": "high",
+        "sub_title": "Public District 9-12"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/auburn-hills/418-Avondale-High-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+9cf3994b6303603f82df31ac244184de",
+      "attributes": {
+        "distance": 2.27,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "9cf3994b6303603f82df31ac244184de"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "fb20911f82489737f0981c62222dfd68",
+      "attributes": {
+        "street": "2800 Kensington Rd",
+        "city": "Bloomfield Hills",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48304",
+        "phone": "2483416200",
+        "fax": "",
+        "name": "East Hills Middle School",
+        "gs_rating": 8,
+        "grade_high": "8",
+        "grade_low": "5",
+        "institution_type": "Public",
+        "instructional_level": "Middle",
+        "school_type": "Regular",
+        "school_url": "http://easthills.bloomfield.org/",
+        "school_district_name": "Bloomfield Hills Schools",
+        "school_district_url": "http://www.bloomfield.org",
+        "enrollment": "487",
+        "teachers_fte": 37.3,
+        "student_teacher_ratio": 13.07,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "fb20911f82489737f0981c62222dfd68",
+        "nces_school_id": "260609004236",
+        "school_district_id": "7cb6b686b5c906c9b8e79e850664ed5a",
+        "nces_school_district_id": "2606090",
+        "geo_point": {
+          "lat": "42.598367",
+          "lon": "-83.245196"
+        },
+        "sub_type": "middle",
+        "sub_title": "Public District 5-8"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/bloomfield-hills/586-East-Hills-Middle-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+fb20911f82489737f0981c62222dfd68",
+      "attributes": {
+        "distance": 2.49,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "fb20911f82489737f0981c62222dfd68"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "75e309dfc36b3a35645fe6a3b5a06f57",
+      "attributes": {
+        "street": "1445 W Auburn Rd",
+        "city": "Rochester Hills",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48309",
+        "phone": "2485376300",
+        "fax": "",
+        "name": "Avondale Middle School",
+        "gs_rating": 6,
+        "grade_high": "8",
+        "grade_low": "6",
+        "institution_type": "Public",
+        "instructional_level": "Middle",
+        "school_type": "Regular",
+        "school_url": "http://www.avondale.k12.mi.us/",
+        "school_district_name": "Avondale School District",
+        "school_district_url": "http://www.avondale.k12.mi.us",
+        "enrollment": "744",
+        "teachers_fte": 42.7,
+        "student_teacher_ratio": 17.44,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "75e309dfc36b3a35645fe6a3b5a06f57",
+        "nces_school_id": "260369000231",
+        "school_district_id": "f14c20b7ab51000402134fe8935ea678",
+        "nces_school_district_id": "2603690",
+        "geo_point": {
+          "lat": "42.630226",
+          "lon": "-83.158477"
+        },
+        "sub_type": "middle",
+        "sub_title": "Public District 6-8"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/rochester-hills/412-Avondale-Middle-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+75e309dfc36b3a35645fe6a3b5a06f57",
+      "attributes": {
+        "distance": 2.54,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "75e309dfc36b3a35645fe6a3b5a06f57"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "5d42f33dc45ba740ed4d2abb2cca3f1c",
+      "attributes": {
+        "street": "5835 Donaldson Dr",
+        "city": "Troy",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48085",
+        "phone": "2488234700",
+        "fax": "",
+        "name": "Smith Middle School",
+        "gs_rating": 7,
+        "grade_high": "8",
+        "grade_low": "6",
+        "institution_type": "Public",
+        "instructional_level": "Middle",
+        "school_type": "Regular",
+        "school_url": "http://smith.troy.k12.mi.us/",
+        "school_district_name": "Troy School District",
+        "school_district_url": "http://www.troy.k12.mi.us",
+        "enrollment": "642",
+        "teachers_fte": 35.7,
+        "student_teacher_ratio": 17.98,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "5d42f33dc45ba740ed4d2abb2cca3f1c",
+        "nces_school_id": "263426006969",
+        "school_district_id": "b647ed1a1335b0bce88511685341f715",
+        "nces_school_district_id": "2634260",
+        "geo_point": {
+          "lat": "42.603539",
+          "lon": "-83.146005"
+        },
+        "sub_type": "middle",
+        "sub_title": "Public District 6-8"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/troy/3454-Smith-Middle-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+5d42f33dc45ba740ed4d2abb2cca3f1c",
+      "attributes": {
+        "distance": 2.67,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "5d42f33dc45ba740ed4d2abb2cca3f1c"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "252584e4bf1a27dc32e69d04fb44b1cc",
+      "attributes": {
+        "street": "888 Enterprise Dr",
+        "city": "Pontiac",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48341",
+        "phone": "2484529309",
+        "fax": "",
+        "name": "Arts and Technology Academy of Pontiac",
+        "gs_rating": 2,
+        "grade_high": "10",
+        "grade_low": "KG",
+        "institution_type": "Public",
+        "instructional_level": "Other",
+        "school_type": "Regular",
+        "school_url": "http://www.pontiacpsa.org/",
+        "school_district_name": "Arts and Technology Academy of Pontiac",
+        "school_district_url": "http://pontiacpsa.org",
+        "enrollment": "522",
+        "teachers_fte": 27,
+        "student_teacher_ratio": 19.33,
+        "magnet_ind": "N",
+        "charter_ind": "Y",
+        "hj_id": "252584e4bf1a27dc32e69d04fb44b1cc",
+        "nces_school_id": "260026701403",
+        "school_district_id": "376f0db50b02c224f4944238b8d111ca",
+        "nces_school_district_id": "2600267",
+        "geo_point": {
+          "lat": "42.621098",
+          "lon": "-83.251795"
+        },
+        "sub_type": "high",
+        "sub_title": "Public Charter KG-10"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/pontiac/4998-Arts-And-Technology-Academy-Of-Pontiac/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+252584e4bf1a27dc32e69d04fb44b1cc",
+      "attributes": {
+        "distance": 2.89,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "252584e4bf1a27dc32e69d04fb44b1cc"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "10cda3cf0df430acc0a211b3c846556b",
+      "attributes": {
+        "street": "1340 E Square Lake Rd",
+        "city": "Troy",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48085",
+        "phone": "2488233100",
+        "fax": "",
+        "name": "Troy Union Elementary School",
+        "gs_rating": 6,
+        "grade_high": "5",
+        "grade_low": "PK",
+        "institution_type": "Public",
+        "instructional_level": "Primary",
+        "school_type": "Regular",
+        "school_url": "http://tu.troy.k12.mi.us/",
+        "school_district_name": "Troy School District",
+        "school_district_url": "http://www.troy.k12.mi.us",
+        "enrollment": "450",
+        "teachers_fte": 27.7,
+        "student_teacher_ratio": 16.23,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "10cda3cf0df430acc0a211b3c846556b",
+        "nces_school_id": "263426006967",
+        "school_district_id": "b647ed1a1335b0bce88511685341f715",
+        "nces_school_district_id": "2634260",
+        "geo_point": {
+          "lat": "42.605390",
+          "lon": "-83.121584"
+        },
+        "sub_type": "elementary",
+        "sub_title": "Public District PK-5"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/troy/3452-Troy-Union-Elementary-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+10cda3cf0df430acc0a211b3c846556b",
+      "attributes": {
+        "distance": 3.9,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "10cda3cf0df430acc0a211b3c846556b"
+          }
+        }
+      }
+    },
+    {
+      "type": "school",
+      "id": "be4799b83ecff8dd27365845d066cee8",
+      "attributes": {
+        "street": "1333 Hamman Dr",
+        "city": "Troy",
+        "county": "Oakland County",
+        "state_code": "MI",
+        "zip": "48085",
+        "phone": "2488233700",
+        "fax": "",
+        "name": "Costello Elementary School",
+        "gs_rating": 7,
+        "grade_high": "5",
+        "grade_low": "PK",
+        "institution_type": "Public",
+        "instructional_level": "Primary",
+        "school_type": "Regular",
+        "school_url": "http://costello.troy.k12.mi.us/",
+        "school_district_name": "Troy School District",
+        "school_district_url": "http://www.troy.k12.mi.us",
+        "enrollment": "348",
+        "teachers_fte": 20.6,
+        "student_teacher_ratio": 16.93,
+        "magnet_ind": "N",
+        "charter_ind": "N",
+        "hj_id": "be4799b83ecff8dd27365845d066cee8",
+        "nces_school_id": "263426006972",
+        "school_district_id": "b647ed1a1335b0bce88511685341f715",
+        "nces_school_district_id": "2634260",
+        "geo_point": {
+          "lat": "42.585544",
+          "lon": "-83.120270"
+        },
+        "sub_type": "elementary",
+        "sub_title": "Public District PK-5"
+      },
+      "links": {
+        "gs_rating_url": "https://www.greatschools.org/michigan/troy/3457-Costello-Elementary-School/"
+      }
+    },
+    {
+      "type": "listing_school",
+      "id": "mimls-d218cdd1-a070-4cac-91fa-e0f258ebb55e+be4799b83ecff8dd27365845d066cee8",
+      "attributes": {
+        "distance": 4.26,
+        "distance_unit": "miles",
+        "is_assigned": false
+      },
+      "relationships": {
+        "school": {
+          "data": {
+            "type": "school",
+            "id": "be4799b83ecff8dd27365845d066cee8"
+          }
+        }
+      }
+    }
+  ]
+}
